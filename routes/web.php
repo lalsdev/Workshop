@@ -19,5 +19,6 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
+Route::get('/contact','contactController@message')->middleware('auth')->name('contact');
 
-Route::get('/photos','PhotoController@select')->middleware('auth');
+Route::get('/photos','PhotoController@select')->middleware('auth')->name('photos');
