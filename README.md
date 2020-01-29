@@ -1,4 +1,4 @@
-<h1>Workshop Laravel by Shao & Hugues<h1>
+<h1 align="center">Workshop Laravel by Shao & Hugues<h1>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 
@@ -25,3 +25,10 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Pré-requis
+
+- Xampp : https://www.apachefriends.org/fr/index.html
+- Node JS : https://www.npmjs.com/get-npm
+- Composer : https://getcomposer.org/
+- Mailtrap : créer un compte : https://mailtrap.io/register/signup?ref=header
