@@ -1,0 +1,48 @@
+# Configuration environnement
+Maintenant c'est le moment de configurer notre application.
+Pour que la database et le mailtrap fonctionnement, on devra configurer le fichier .env
+
+
+## .env
+pour la database
+```
+DB_CONNECTION=
+DB_HOST=
+DB_PORT=
+DB_DATABASE=
+DB_USERNAME=
+DB_PASSWORD=
+```
+
+pour le mailtrap
+```
+MAIL_USERNAME=
+MAIL_PASSWORD=
+MAIL_FROM_ADDRESS=from@example.com
+```
+## migration
+Laravel a déjà crée une table users pour nous. On devra migrer cette table pour qu'elle apparaisse dans notre database. Avant de faire la migration, on devra modifier le fichier migration pour notre application.
+
+#### database/migrations/created_users_table
+```php
+    public function up()
+    {
+        Schema::create('users', function (Blueprint $table) {
+            $table->bigIncrements('id');
+            $table->string('name');
+            $table->string('start_up');
+            $table->string('email')->unique();
+            $table->timestamp('email_verified_at')->nullable();
+            $table->string('password');
+            $table->rememberToken();
+            $table->timestamps();
+        });
+    }
+```
+
+Ensuite, on pourra faire la migration 
+```
+php artisan migrate
+```
+
+[Section suivante - configuration_application](configuration_application.md)
