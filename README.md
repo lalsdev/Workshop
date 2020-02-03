@@ -12,7 +12,7 @@
 ## Introduction
 
 ## Plan
-- [Installation](workshop_tutoriel/installation.md)
+- [Installation](workshop_tutoriel/1.installation.md)
 - [Configuration environnement](workshop_tutoriel/configuration_environnement.md)
 - [Configuration application](workshop_tutoriel/configuration_application.md)
 - [Configuration dashboard](workshop_tutoriel/configuration_dashboard.md)
