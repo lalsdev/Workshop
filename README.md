@@ -19,9 +19,12 @@
 - [Page photos](workshop_tutoriel/page_photos.md)
 - [Page contact](workshop_tutoriel/page_contact.md)
 
-## Resources
+## Ressources
 [Documentation Officielle](https://laravel.com/docs/6.x)
 [Laracasts](https://laracasts.com/)
+- Fr
+[Laravel.sillo](https://laravel.sillo.org/laravel-6-2/)
+[NordCoders](https://www.youtube.com/watch?v=9I8ilGHY5FQ&list=PLeeuvNW2FHVimkEqbV1vJ9pjFu8UOeSNB)
 
 ## License
 
