@@ -13,11 +13,12 @@
 
 ## Plan
 - [Installation](workshop_tutoriel/1.installation.md)
-- [Configuration environnement](workshop_tutoriel/configuration_environnement.md)
-- [Configuration application](workshop_tutoriel/configuration_application.md)
-- [Configuration dashboard](workshop_tutoriel/configuration_dashboard.md)
-- [Page photos](workshop_tutoriel/page_photos.md)
-- [Page contact](workshop_tutoriel/page_contact.md)
+- [Configuration environnement](workshop_tutoriel/2.configuration_environnement.md)
+- [Configuration application](workshop_tutoriel/3.configuration_application.md)
+- [Configuration dashboard](workshop_tutoriel/4.configuration_dashboard.md)
+- [Page photos](workshop_tutoriel/5.page_photos.md)
+- [Page contact](workshop_tutoriel/6.page_contact.md)
+- [Déploiement](workshop_tutoriel/7.déploiement.md)
 
 ## Ressources
 - [Documentation Officielle](https://laravel.com/docs/6.x)
