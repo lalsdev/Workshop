@@ -21,11 +21,11 @@
 - [Déploiement](workshop_tutoriel/7.déploiement.md)
 
 ## Ressources
-- [Documentation Officielle](https://laravel.com/docs/6.x) -En
-- [Laracasts](https://laracasts.com/) - En
+- [Documentation Officielle](https://laravel.com/docs/6.x)
+- [Laracasts](https://laracasts.com/)
 - [Lavavel-France/Documentation](https://github.com/laravel-france/documentation/blob/master/4.2/eloquent.md#introduction)
-- [Laravel.sillo](https://laravel.sillo.org/laravel-6-2/) - Fr
-- [NordCoders](https://www.youtube.com/watch?v=9I8ilGHY5FQ&list=PLeeuvNW2FHVimkEqbV1vJ9pjFu8UOeSNB) - Fr
+- [Laravel.sillo](https://laravel.sillo.org/laravel-6-2/)
+- [NordCoders](https://www.youtube.com/watch?v=9I8ilGHY5FQ&list=PLeeuvNW2FHVimkEqbV1vJ9pjFu8UOeSNB)
 
 ## License
 
