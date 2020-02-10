@@ -25,6 +25,8 @@
 - [Laracasts](https://laracasts.com/)
 - [Laravel.sillo](https://laravel.sillo.org/laravel-6-2/)
 - [NordCoders](https://www.youtube.com/watch?v=9I8ilGHY5FQ&list=PLeeuvNW2FHVimkEqbV1vJ9pjFu8UOeSNB)
+- [Walkerspider](https://walkerspider.com/cours/laravel)
+- [Apical](https://apical.xyz/formations/laravel#chapitre-mise_en_ligne_de_la_base_de_donnees_002)
 
 ## License
 
